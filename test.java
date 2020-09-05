@@ -1,1 +1,3 @@
-public class test;
+public interfere test{
+     public void test（）；
+}
